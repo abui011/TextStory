@@ -1,0 +1,9 @@
+﻿Zombies are taking over Manhattan. You are one of the few survivors in the city. 
+You hear fingernail scratching and moaning right outside your door. You could 
+either bust down the door and start wreaking havoc with your M4, or venture up 
+your fire escape.
+
+
+What should you ?
+1: Go Rambo on these zombies
+2: Venture up the fire escape
